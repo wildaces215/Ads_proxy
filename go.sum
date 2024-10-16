@@ -1,0 +1,4 @@
+github.com/goproxy/goproxy v0.17.2 h1:6Kzz8V6RyeITfiHY5oGw9tPEOMIamTOzJWoWPi0/Hbs=
+github.com/goproxy/goproxy v0.17.2/go.mod h1:IxJ9/TarFFk0NBAWdkwvYqxb6zbk+JdA17nfBIHtblI=
+golang.org/x/mod v0.19.0 h1:fEdghXQSo20giMthA7cd28ZC+jts4amQ3YMXiP5oMQ8=
+golang.org/x/mod v0.19.0/go.mod h1:hTbmBsO62+eylJbnUtE2MGJUyE7QWk4xUqPFrRgJ+7c=
